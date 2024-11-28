@@ -1,0 +1,9 @@
+C:\ExamProjects\MessageEncryption\MessageEncryption\bin\Debug\MessageEncryption.exe.config
+C:\ExamProjects\MessageEncryption\MessageEncryption\bin\Debug\MessageEncryption.exe
+C:\ExamProjects\MessageEncryption\MessageEncryption\bin\Debug\MessageEncryption.pdb
+C:\ExamProjects\MessageEncryption\MessageEncryption\obj\Debug\MessageEncryption.csproj.AssemblyReference.cache
+C:\ExamProjects\MessageEncryption\MessageEncryption\obj\Debug\MessageEncryption.Properties.Resources.resources
+C:\ExamProjects\MessageEncryption\MessageEncryption\obj\Debug\MessageEncryption.csproj.GenerateResource.cache
+C:\ExamProjects\MessageEncryption\MessageEncryption\obj\Debug\MessageEncryption.csproj.CoreCompileInputs.cache
+C:\ExamProjects\MessageEncryption\MessageEncryption\obj\Debug\MessageEncryption.exe
+C:\ExamProjects\MessageEncryption\MessageEncryption\obj\Debug\MessageEncryption.pdb

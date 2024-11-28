@@ -1,0 +1,9 @@
+C:\ExamProjects\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.AssemblyReference.cache
+C:\ExamProjects\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.Properties.Resources.resources
+C:\ExamProjects\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.GenerateResource.cache
+C:\ExamProjects\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.CoreCompileInputs.cache
+C:\ExamProjects\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
+C:\ExamProjects\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+C:\ExamProjects\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+C:\ExamProjects\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+C:\ExamProjects\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.pdb

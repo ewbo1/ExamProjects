@@ -1,0 +1,9 @@
+C:\ExamProjects\FractionCalculator\FractionCalculator\bin\Debug\FractionCalculator.exe.config
+C:\ExamProjects\FractionCalculator\FractionCalculator\bin\Debug\FractionCalculator.exe
+C:\ExamProjects\FractionCalculator\FractionCalculator\bin\Debug\FractionCalculator.pdb
+C:\ExamProjects\FractionCalculator\FractionCalculator\obj\Debug\FractionCalculator.csproj.AssemblyReference.cache
+C:\ExamProjects\FractionCalculator\FractionCalculator\obj\Debug\FractionCalculator.Properties.Resources.resources
+C:\ExamProjects\FractionCalculator\FractionCalculator\obj\Debug\FractionCalculator.csproj.GenerateResource.cache
+C:\ExamProjects\FractionCalculator\FractionCalculator\obj\Debug\FractionCalculator.csproj.CoreCompileInputs.cache
+C:\ExamProjects\FractionCalculator\FractionCalculator\obj\Debug\FractionCalculator.exe
+C:\ExamProjects\FractionCalculator\FractionCalculator\obj\Debug\FractionCalculator.pdb

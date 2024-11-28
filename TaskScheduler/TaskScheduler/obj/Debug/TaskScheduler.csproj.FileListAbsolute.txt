@@ -1,0 +1,9 @@
+C:\ExamProjects\TaskScheduler\TaskScheduler\bin\Debug\TaskScheduler.exe.config
+C:\ExamProjects\TaskScheduler\TaskScheduler\bin\Debug\TaskScheduler.exe
+C:\ExamProjects\TaskScheduler\TaskScheduler\bin\Debug\TaskScheduler.pdb
+C:\ExamProjects\TaskScheduler\TaskScheduler\obj\Debug\TaskScheduler.csproj.AssemblyReference.cache
+C:\ExamProjects\TaskScheduler\TaskScheduler\obj\Debug\TaskScheduler.Properties.Resources.resources
+C:\ExamProjects\TaskScheduler\TaskScheduler\obj\Debug\TaskScheduler.csproj.GenerateResource.cache
+C:\ExamProjects\TaskScheduler\TaskScheduler\obj\Debug\TaskScheduler.csproj.CoreCompileInputs.cache
+C:\ExamProjects\TaskScheduler\TaskScheduler\obj\Debug\TaskScheduler.exe
+C:\ExamProjects\TaskScheduler\TaskScheduler\obj\Debug\TaskScheduler.pdb
